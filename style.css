@@ -1,0 +1,64 @@
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color:aquamarine;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+body{
+    background-color:aquamarine;
+}
+.grid {
+    
+    display:flex
+
+}
+
+
+.origami{
+    border-radius:20 px;
+    
+    background-color: aqua;
+
+    width:310 px;
+    font-family: fantasy;
+    display:flex;
+    flex-wrap:wrap;
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color: white;
+}
+.a:hover img{
+    opacity: 0.3;
+}
+.a:hover {
+    transform:scale(1.2);
+}
+
+.b:hover img{
+    opacity: 0.3;
+}
+.b:hover {
+    transform:scale(1.2);
+}
+.c:hover img{
+    opacity: 0.3;
+}
+.c:hover {
+    transform:scale(1.2);
+}
+
+.d:hover img{
+    opacity: 0.3;
+}
+.d:hover {
+    transform:scale(1.2);
+}
+a{
+    text-decoration: none;
+}
